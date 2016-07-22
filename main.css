@@ -1,0 +1,56 @@
+.padre{
+	background-color: #6ACB87;
+	width: 900px;
+	height:630px;
+	position: relative;
+}
+.borde{
+	width: 850px;
+	height: 550px;
+	position: absolute;
+	margin:20px;
+
+	border:3px solid #FFFFFF;
+}
+.arco{
+	width: 100px;
+	height: 200px;
+	border:3px solid #FFFFFF;
+	position: absolute;
+	top:175px;
+
+}
+.arco2{
+	width: 100px;
+	height: 200px;
+	border:3px solid #FFFFFF;
+	position: absolute;
+	top:175px;
+	left:745px;
+
+}
+.circulo{
+position: absolute;
+width: 175px;
+height: 175px;
+border-radius: 50%;
+border:3px solid #FFFFFF ;
+top:200px;
+left: 350px;
+
+}
+.bola1{
+	position: absolute;
+	top:220px;
+	left:115px;
+}
+.bola2{
+	position: absolute;
+	top:180px;
+	left:450px;
+}
+.bola3{
+	position: absolute;
+	top:390px;
+	left:730px;
+}
